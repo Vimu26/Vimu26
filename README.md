@@ -12,5 +12,5 @@ I'm Akalanka Vimukthi, a 24 years old web and mobile app developer from Sri Lank
 - 💽 MySQL, MongoDB
 + a lot more :D
 
-## Contact
 
+[![An image of @vimu26's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vimu26)](https://holopin.io/@vimu26)
