@@ -1,11 +1,16 @@
-- 👋 Hi, I’m @Vimu26
-- 👀 I’m interested in Web Developing
-- I'm a Full Stack Developer
+## Hey! 👋
+I'm Akalanka Vimukthi, a 24 years old web and mobile app developer from Sri Lanka 🦔.
 
+- 👨‍💻 Working at Echonlabs
 
-[![An image of @vimu26's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vimu26)](https://holopin.io/@vimu26)
+- 🧭 Computer Science Student at University of Sri Jayewardenapura
 
-<!---
-Vimu26/Vimu26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Skills
+- 👨‍💻 TypeScript, JavaScript, C, Java
+- ⚙️ Angular, React
+- 👁️ CSS, Bootstrap
+- 💽 MySQL, MongoDB
++ a lot more :D
+
+## Contact
+
