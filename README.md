@@ -1,5 +1,5 @@
 ## Hey! 👋
-I'm Akalanka Vimukthi, a 24 years old web and mobile app developer from Sri Lanka 🦔.
+I'm Akalanka Vimukthi, a 23 years old web and mobile app developer from Sri Lanka 🦔.
 
 - 👨‍💻 Working at Echonlabs
 - 🧭 Computer Science Student at University of Sri Jayewardenapura
