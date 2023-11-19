@@ -6,7 +6,7 @@ I'm Akalanka Vimukthi, a 23 years old web and mobile app developer from Sri Lank
 
 ## Skills
 
-- 👨‍💻 TypeScript, JavaScript, C, Java
+- 👨‍💻 TypeScript, JavaScript, C, C++, Java
 - 
 - ⚙️ Angular, React
 - 
