@@ -3,6 +3,7 @@ I'm Akalanka Vimukthi, a 23 years old web and mobile app developer from Sri Lank
 
 - 👨‍💻 Working at Echonlabs
 - 🧭 Computer Science Student at University of Sri Jayewardenapura
+- I'm Currently learning PHP with Laravel
 
 ## Skills
 
