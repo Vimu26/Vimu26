@@ -1,3 +1,8 @@
+<h1 align="center">Hi 👋, I'm Akalanka Vimukthi</h1>
+<h3 align="center">A passionate Full Stack Engineer from Sri Lanka</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vimu26&label=Profile%20views&color=0e75b6&style=flat" alt="vimu26" /> </p>
+
 # 💫 About Me:
 🔭i'm curruntly working at Echonlabs , as a Part time trainee Software Engineer (Since 2023 January)<br>🌱 I’m currently learning React and NestJs<br>🧭 Computer Science Student at University of Sri Jayewardenapura<br>📫 How to reach me akalankavimukthi2@gmail.com
 
