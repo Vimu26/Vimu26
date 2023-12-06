@@ -24,13 +24,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vimu26&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vimu26&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vimu26&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 💰 Support Me:
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/akalanka)
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/akalankavif)
 
 [![An image of @vimu26's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vimu26)](https://holopin.io/@vimu26)
