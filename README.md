@@ -21,9 +21,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vimu26&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vimu26&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vimu26&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![vimu26's Stats](https://github-readme-stats.vercel.app/api?username=vimu26&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![vimu26's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vimu26&theme=tokyonight&hide_border=false)
+![vimu26's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vimu26&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 
 ## 💰 Support Me:
