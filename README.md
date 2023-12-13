@@ -23,19 +23,9 @@
 
 
 # 📊 GitHub Stats:
-<div style="display: flex; align-items: center; justify-content: center; height: 300px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimu26&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
-</div>
-<div style="display: flex; align-items: center; justify-content: center; height: 300px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=vimu26&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
-</div>
-<div style="display: flex; align-items: center; justify-content: center; height: 300px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vimu26&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</div>
-
-![vimu26's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vimu26&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 ![vimu26's Stats](https://github-readme-stats.vercel.app/api?username=vimu26&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 ![vimu26's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vimu26&theme=tokyonight&hide_border=false)
+![vimu26's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vimu26&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 
 
