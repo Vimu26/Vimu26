@@ -23,6 +23,7 @@
 
 
 # 📊 GitHub Stats:
+
 ![vimu26's Stats](https://github-readme-stats.vercel.app/api?username=vimu26&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 ![vimu26's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vimu26&theme=tokyonight&hide_border=false)
 ![vimu26's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vimu26&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
@@ -30,6 +31,7 @@
 
 
 ## 💰 Support Me:
+
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/akalankavif)<br><br>
 
 [![An image of @vimu26's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vimu26)](https://holopin.io/@vimu26)
