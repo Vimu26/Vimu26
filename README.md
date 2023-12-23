@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=610&height=70&duration=5000&lines=Hi+👋,+I'm+Akalanka+Vimukthi;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=610&height=70&duration=5000&lines=Hello+👋,+I'm+Akalanka+Vimukthi;" />
 </h1>
 <h3 align="center">A passionate Full Stack Engineer from Sri Lanka</h3><br>
 
