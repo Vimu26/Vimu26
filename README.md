@@ -9,7 +9,7 @@
 
 🌱 Currently, I'm immersed in the world of web development, honing my skills in React and NestJs to build innovative and efficient applications.
 
-🎓 I'm pursuing a degree in Computer Science at the University of Sri Jayewardenepura, constantly exploring the vast realms of computer science and technology.
+🎓 I'm pursuing a degree related to Computer Science at the University of Sri Jayewardenepura, constantly exploring the vast realms of computer science and technology.
 
 📬 Feel free to reach out to me at [akalankavimukthi2@gmail.com](mailto:akalankavimukthi2@gmail.com) for any collaborations, discussions, or just a friendly chat!
 
