@@ -5,13 +5,14 @@
 
 # 💫 About Me:
 
-👩‍💻 Hello! I'm Akalanka Vimukthi, a passionate Part-time Trainee Software Engineer at Echonlabs since January 2023.
 
-🌱 Currently, I'm immersed in the world of web development, honing my skills in React and NestJs to build innovative and efficient applications.
+👩‍💻 Hello! I'm Akalanka Vimukthi, an enthusiastic Part-time Trainee Software Engineer at Echonlabs since January 2023.
 
-🎓 I'm pursuing a degree related to Computer Science at the University of Sri Jayewardenepura, constantly exploring the vast realms of computer science and technology.
+🌱 Currently, I'm deeply immersed in the dynamic world of web development, sharpening my skills in React and NestJs to craft innovative and efficient applications.
 
-📬 Feel free to reach out to me at [akalankavimukthi2@gmail.com](mailto:akalankavimukthi2@gmail.com) for any collaborations, discussions, or just a friendly chat!
+🎓 Pursuing a Computer Science degree at the University of Sri Jayewardenepura, I am on a continuous exploration of the vast realms of computer science and technology.
+
+📬 Don't hesitate to reach out to me at akalankavimukthi2@gmail.com for any collaboration, discussions, or just a friendly chat! Let's connect and explore the exciting possibilities in the tech landscape!
 
 <!-- Add any additional sections you'd like, such as projects, skills, or a glimpse into your coding journey. -->
 
