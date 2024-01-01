@@ -5,7 +5,6 @@
 
 # 💫 About Me:
 
-
 👩‍💻 Hello! I'm Akalanka Vimukthi, an enthusiastic Part-time Trainee Software Engineer at Echonlabs since January 2023.
 
 🌱 Currently, I'm deeply immersed in the dynamic world of web development, sharpening my skills in React and NestJs to craft innovative and efficient applications.
