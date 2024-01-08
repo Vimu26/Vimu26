@@ -1,11 +1,11 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=610&height=70&duration=5000&lines=Hello+👋,+I'm+Akalanka+Vimukthi;" />
 </h1>
-<h3 align="center">A passionate Full Stack Engineer from Sri Lanka</h3><br>
+<h3 align="center">A Passionate Full Stack Engineer from Sri Lanka</h3><br>
 
 # 💫 About Me:
 
-👩‍💻 I'm an enthusiastic Part-time Trainee Software Engineer at Echonlabs since January 2023.
+👩‍💻 I'm an Enthusiastic Part-time Trainee Software Engineer at Echonlabs since January 2023.
 
 🌱 Currently, I'm deeply immersed in the dynamic world of web development, sharpening my skills in React and NestJs to craft innovative and efficient applications.
 
