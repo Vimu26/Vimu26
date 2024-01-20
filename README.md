@@ -7,7 +7,7 @@
 
 👩‍💻 I'm an Enthusiastic Part-time Trainee Software Engineer at Echonlabs since January 2023.
 
-🌱 Currently, I'm deeply immersed in the dynamic world of web development, sharpening my skills in React and NestJs to craft innovative and efficient applications.
+🌱 Currently, I'm deeply immersed in the dynamic world of web development, sharpening my skills in React and Nest Js to craft innovative and efficient applications.
 
 🎓 Pursuing a Computer Science degree at the University of Sri Jayewardenepura, I am on a continuous exploration of the vast realms of computer science and technology.
 
