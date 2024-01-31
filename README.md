@@ -9,7 +9,7 @@
 
 🌱 Currently, I'm deeply immersed in the dynamic world of web development, sharpening my skills in React and Nest Js to craft innovative and efficient applications.
 
-🎓 Pursuing a Computer Science degree at the University of Sri Jayewardenepura, I am on a continuous exploration of the vast realms of computer science and technology.
+🎓 Pursuing a Computer Science related degree at the University of Sri Jayewardenepura, I am on a continuous exploration of the vast realms of computer science and technology.
 
 <!-- Add any additional sections you'd like, such as projects, skills, or a glimpse into your coding journey. -->
 
