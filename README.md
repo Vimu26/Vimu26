@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 
-👩‍💻 I'm an Enthusiastic Trainee Software Engineer at Echonlabs
+👩‍💻 I'm an Enthusiastic Trainee Software Engineer at Echonlabs (PVT) LTD
 
 🌱 Currently, I'm deeply immersed in the dynamic world of web development, sharpening my skills in React , React Native ,  NestJs and MySql to craft innovative and efficient applications.
 
