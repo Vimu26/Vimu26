@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">A Passionate Full Stack Engineer and Mobile App Engineer from Sri Lanka</h3><br>
 
-Welcome to my GitHub profile! You can check out my portfolio [here](https://akalanka-vimukthi-portfolio.netlify.app/).
+You can check out my portfolio [here](https://akalanka-vimukthi-portfolio.netlify.app/).
 
 # 💫 About Me:
 
