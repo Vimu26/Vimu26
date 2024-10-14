@@ -7,11 +7,11 @@ You can check out my portfolio [here](https://akalanka-vimukthi-portfolio.netlif
 
 # 💫 About Me:
 
-👩‍💻 I'm an Enthusiastic Trainee Software Engineer at Echonlabs (PVT) LTD
+👩‍💻 I'm an Enthusiastic Associate Software Engineer at Echonlabs (PVT) LTD
 
 🌱 Currently, I'm deeply immersed in the dynamic world of web development, sharpening my C#,  ASP .Net Core, and Microsoft SQL skills to craft innovative and efficient applications.
 
-🎓 Pursuing a Computer Science related degree at the University of Sri Jayewardenepura, I am continuously exploring the vast realms of computer science and technology.
+🎓 Pursuing a Computer Science related degree at the University of Sri Jayewardenepura, I continuously explore the vast realms of computer science and technology.
 
 <!-- Add any additional sections you'd like, such as projects, skills, or a glimpse into your coding journey. -->
 
