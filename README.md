@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=910&height=70&duration=7200&lines=Hello+👋,+I'm+Akalanka+Vimukthi+Rathnayake;" />
 </h1>
-<h3 align="center">A Passionate Full Stack Engineer and Mobile Application Engineer from Sri Lanka</h3><br>
+<h3 align="center">A Passionate Full Stack Engineer from Sri Lanka</h3><br>
 
 You can check out my portfolio [here](https://akalanka-vimukthi-portfolio.netlify.app/).
 
