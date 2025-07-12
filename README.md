@@ -9,7 +9,7 @@ You can check out my portfolio [here](https://akalanka-vimukthi-portfolio.netlif
 
 👩‍💻 I'm an Enthusiastic Associate Software Engineer
 
-🌱 Currently, I'm deeply immersed in the dynamic world of web development, sharpening my Java, Spring Boot, and SQL skills to craft innovative and efficient applications.
+🌱 Currently, I'm deeply immersed in the dynamic world of web development, sharpening my Java, Spring Boot, and MYSQL skills to craft innovative and efficient applications.
 
 🎓 I graduated with a Computer Science-related degree from the University of Sri Jayewardenepura in Sri Lanka and continuously explore the vast realms of computer science and technology.
 
