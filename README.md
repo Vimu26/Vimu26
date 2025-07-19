@@ -15,7 +15,7 @@ You can check out my portfolio [here](https://akalanka-vimukthi-portfolio.netlif
 
 <!-- Add any additional sections you'd like, such as projects, skills, or a glimpse into your coding journey. -->
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akalanka-vimukthi-6b4449265/)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:akalankavimukthi2@gmail.com)
 
