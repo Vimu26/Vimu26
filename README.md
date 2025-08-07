@@ -11,7 +11,7 @@ You can check out my portfolio [here](https://akalanka-vimukthi-portfolio.netlif
 
 🌱 Currently, I'm deeply immersed in the dynamic world of web development, sharpening my Java, Spring Boot, and MYSQL skills to craft innovative and efficient applications.
 
-🎓 I graduated with a Computer Science-related degree from the University of Sri Jayewardenepura in Sri Lanka, and continuously explore the vast realms of computer science and technology.
+🎓 I graduated with a Computer Science related degree from the University of Sri Jayewardenepura in Sri Lanka, and continuously explore the vast realms of computer science and technology.
 
 <!-- Add any additional sections you'd like, such as projects, skills, or a glimpse into your coding journey. -->
 
