@@ -5,7 +5,7 @@
 
 You can check out my portfolio [here](https://akalanka-vimukthi-portfolio.netlify.app/).
 
-# 💫 About Me:
+# 💫 About Me
 
 👩‍💻 I'm an Enthusiastic Associate Software Engineer
 
