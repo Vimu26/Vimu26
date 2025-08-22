@@ -7,7 +7,7 @@ You can check out my portfolio [here](https://akalanka-vimukthi-portfolio.netlif
 
 # 💫 About Me
 
-👩‍💻 I'm an Enthusiastic Associate Software Engineer
+👩‍💻 I'm an Enthusiastic Associate Software Engineer.
 
 🌱 Currently, I'm deeply immersed in the dynamic world of web development, sharpening my Java, Spring Boot, and MYSQL skills to craft innovative and efficient applications.
 
